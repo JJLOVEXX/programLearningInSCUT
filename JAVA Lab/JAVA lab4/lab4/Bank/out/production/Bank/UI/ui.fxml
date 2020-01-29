@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UI.MainWindow">
+   <children>
+      <ListView fx:id="list" layoutX="14.0" layoutY="48.0" prefHeight="338.0" prefWidth="265.0" />
+      <Label layoutX="300.0" layoutY="105.0" text="firstName" />
+      <Label layoutX="301.0" layoutY="243.0" text="lastName" />
+      <TextField fx:id="text_1" layoutX="384.0" layoutY="100.0" />
+      <TextField fx:id="text_2" layoutX="384.0" layoutY="238.0" />
+      <Button fx:id="bt_1" layoutX="344.0" layoutY="336.0" mnemonicParsing="false" onAction="#add" text="ADD" />
+      <Button fx:id="bt_2" layoutX="397.0" layoutY="336.0" mnemonicParsing="false" onAction="#delete" text="DEL" />
+      <Button fx:id="bt_3" layoutX="445.0" layoutY="336.0" mnemonicParsing="false" onAction="#search" text="SEARCH" />
+      <Button fx:id="bt_4" layoutX="524.0" layoutY="336.0" mnemonicParsing="false" onAction="#sort" text="SORT" />
+      <Label layoutX="14.0" layoutY="28.0" text="CustomerList" />
+   </children>
+</Pane>
