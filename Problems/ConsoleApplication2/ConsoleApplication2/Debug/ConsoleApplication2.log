@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+c:\users\89584\source\repos\consoleapplication2\consoleapplication2\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\89584\source\repos\consoleapplication2\consoleapplication2\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\89584\source\repos\consoleapplication2\consoleapplication2\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConsoleApplication2.cpp
+c:\users\89584\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(48): error C2512: “GradeBook”: 没有合适的默认构造函数可用
+  c:\users\89584\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(11): note: 参见“GradeBook”的声明

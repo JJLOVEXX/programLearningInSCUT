@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+c:\users\89584\source\repos\计算阶乘之和\计算阶乘之和\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\89584\source\repos\计算阶乘之和\计算阶乘之和\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\89584\source\repos\计算阶乘之和\计算阶乘之和\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  计算阶乘之和.cpp
+  计算阶乘之和.vcxproj -> c:\users\89584\source\repos\计算阶乘之和\Debug\计算阶乘之和.exe
+  计算阶乘之和.vcxproj -> c:\users\89584\source\repos\计算阶乘之和\Debug\计算阶乘之和.pdb (Partial PDB)

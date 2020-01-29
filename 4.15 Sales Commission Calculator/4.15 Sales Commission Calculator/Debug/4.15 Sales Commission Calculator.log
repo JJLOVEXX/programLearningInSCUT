@@ -1,0 +1,5 @@
+﻿  415SalesCommissionCalculator.cpp
+c:\users\89584\source\repos\4.15 sales commission calculator\4.15 sales commission calculator\415salescommissioncalculator.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\89584\source\repos\4.15 sales commission calculator\4.15 sales commission calculator\415salescommissioncalculator.cpp(18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  4.15 Sales Commission Calculator.vcxproj -> C:\Users\89584\source\repos\4.15 Sales Commission Calculator\Debug\4.15 Sales Commission Calculator.exe
+  4.15 Sales Commission Calculator.vcxproj -> C:\Users\89584\source\repos\4.15 Sales Commission Calculator\Debug\4.15 Sales Commission Calculator.pdb (Partial PDB)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZWZ’s Letters", "ZWZ’s Letters\ZWZ’s Letters.vcxproj", "{8355C78F-954F-4F7D-84B2-21945FCEAD05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8355C78F-954F-4F7D-84B2-21945FCEAD05}.Debug|x64.ActiveCfg = Debug|x64
+		{8355C78F-954F-4F7D-84B2-21945FCEAD05}.Debug|x64.Build.0 = Debug|x64
+		{8355C78F-954F-4F7D-84B2-21945FCEAD05}.Debug|x86.ActiveCfg = Debug|Win32
+		{8355C78F-954F-4F7D-84B2-21945FCEAD05}.Debug|x86.Build.0 = Debug|Win32
+		{8355C78F-954F-4F7D-84B2-21945FCEAD05}.Release|x64.ActiveCfg = Release|x64
+		{8355C78F-954F-4F7D-84B2-21945FCEAD05}.Release|x64.Build.0 = Release|x64
+		{8355C78F-954F-4F7D-84B2-21945FCEAD05}.Release|x86.ActiveCfg = Release|Win32
+		{8355C78F-954F-4F7D-84B2-21945FCEAD05}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA79E55E-619B-4813-854A-5A3ADE623B5E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿  Library.cpp
+  Book Management System2.0.cpp
+c:\users\chenlijian\source\repos\book management system2.0\book management system2.0\book management system2.0.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\source\repos\book management system2.0\book management system2.0\book management system2.0.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Book Management System2.0.vcxproj -> C:\Users\ChenLiJian\source\repos\Book Management System2.0\Debug\Book Management System2.0.exe

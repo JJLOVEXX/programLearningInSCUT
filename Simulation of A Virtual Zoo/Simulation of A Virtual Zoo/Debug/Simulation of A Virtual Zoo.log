@@ -1,0 +1,4 @@
+﻿  Zoo.cpp
+c:\users\chenlijian\source\repos\simulation of a virtual zoo\simulation of a virtual zoo\zoo.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\source\repos\simulation of a virtual zoo\simulation of a virtual zoo\zoo.cpp(78): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Simulation of A Virtual Zoo.vcxproj -> C:\Users\ChenLiJian\source\repos\Simulation of A Virtual Zoo\Debug\Simulation of A Virtual Zoo.exe

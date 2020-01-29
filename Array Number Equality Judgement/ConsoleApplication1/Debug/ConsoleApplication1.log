@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+c:\users\chenlijian\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> C:\Users\ChenLiJian\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe

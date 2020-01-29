@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Character String of Fstring", "Character String of Fstring\Character String of Fstring.vcxproj", "{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}.Debug|x64.ActiveCfg = Debug|x64
+		{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}.Debug|x64.Build.0 = Debug|x64
+		{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}.Debug|x86.Build.0 = Debug|Win32
+		{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}.Release|x64.ActiveCfg = Release|x64
+		{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}.Release|x64.Build.0 = Release|x64
+		{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}.Release|x86.ActiveCfg = Release|Win32
+		{EEF5628E-85E7-41B2-89D7-C171F61DC8F5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE1588DB-3071-49C2-B494-0EFC5F92742A}
+	EndGlobalSection
+EndGlobal

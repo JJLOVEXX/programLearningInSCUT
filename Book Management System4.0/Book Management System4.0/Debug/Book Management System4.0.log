@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Library.cpp
+  Book Management System4.0.cpp
+c:\users\chenlijian\source\repos\book management system4.0\book management system4.0\book management system4.0.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\source\repos\book management system4.0\book management system4.0\book management system4.0.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\source\repos\book management system4.0\book management system4.0\book management system4.0.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\source\repos\book management system4.0\book management system4.0\book management system4.0.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Book Management System4.0.vcxproj -> C:\Users\ChenLiJian\source\repos\Book Management System4.0\Debug\Book Management System4.0.exe

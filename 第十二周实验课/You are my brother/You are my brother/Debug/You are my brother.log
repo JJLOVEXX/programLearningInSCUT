@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+d:\source\repos\第十二周实验课\you are my brother\you are my brother\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\source\repos\第十二周实验课\you are my brother\you are my brother\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\source\repos\第十二周实验课\you are my brother\you are my brother\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Youaremybrother.cpp
+  You are my brother.vcxproj -> D:\source\repos\第十二周实验课\You are my brother\Debug\You are my brother.exe
+  You are my brother.vcxproj -> D:\source\repos\第十二周实验课\You are my brother\Debug\You are my brother.pdb (Partial PDB)

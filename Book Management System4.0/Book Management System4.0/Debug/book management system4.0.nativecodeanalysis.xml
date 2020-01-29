@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\chenlijian\source\repos\book management system4.0\book management system4.0\</FILEPATH>
+      <FILENAME>book management system4.0.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>“books”的局部声明遮蔽了外部作用域中具有相同名称的声明。有关其他信息，请参见此前位于“15”行(“c:\users\chenlijian\source\repos\book management system4.0\book management system4.0\book management system4.0.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\chenlijian\source\repos\book management system4.0\book management system4.0\</FILEPATH>
+        <FILENAME>book management system4.0.cpp</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

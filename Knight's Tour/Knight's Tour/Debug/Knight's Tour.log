@@ -1,0 +1,5 @@
+﻿  正在跳过...(未检测到相关更改)
+  stdafx.cpp
+  Knight's Tour.cpp
+c:\users\chenlijian\source\repos\knight's tour\knight's tour\knight's tour.cpp(189): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Knight's Tour.vcxproj -> C:\Users\ChenLiJian\source\repos\Knight's Tour\Debug\Knight's Tour.exe
