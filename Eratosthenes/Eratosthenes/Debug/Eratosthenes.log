@@ -1,0 +1,3 @@
+﻿  Eratosthenes.cpp
+c:\users\chenlijian\source\repos\eratosthenes\eratosthenes\eratosthenes.cpp(14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Eratosthenes.vcxproj -> C:\Users\ChenLiJian\source\repos\Eratosthenes\Debug\Eratosthenes.exe

@@ -1,0 +1,4 @@
+﻿  Dice Rolling.cpp
+d:\source\repos\7.17 dice rolling\7.17 dice rolling\dice rolling.cpp(33): warning C4244: “参数”: 从“double”转换到“std::streamsize”，可能丢失数据
+  7.17 Dice Rolling.vcxproj -> D:\source\repos\7.17 Dice Rolling\Debug\7.17 Dice Rolling.exe
+  7.17 Dice Rolling.vcxproj -> D:\source\repos\7.17 Dice Rolling\Debug\7.17 Dice Rolling.pdb (Partial PDB)

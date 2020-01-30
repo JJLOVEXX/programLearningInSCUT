@@ -1,0 +1,9 @@
+﻿  Library.cpp
+  Catalogue.cpp
+  Borrower.cpp
+  正在生成代码...
+  正在编译...
+  Book Management System.cpp
+c:\users\chenlijian\source\repos\book management system\book management system\book management system.cpp(18): error C2512: “Library”: 没有合适的默认构造函数可用
+  c:\users\chenlijian\source\repos\book management system\book management system\library.h(6): note: 参见“Library”的声明
+  正在生成代码...

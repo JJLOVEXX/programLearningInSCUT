@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\89584\source\repos\maze traversal\maze traversal\源.cpp(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Maze Traversal.vcxproj -> C:\Users\89584\source\repos\Maze Traversal\Debug\Maze Traversal.exe
+  Maze Traversal.vcxproj -> C:\Users\89584\source\repos\Maze Traversal\Debug\Maze Traversal.pdb (Partial PDB)

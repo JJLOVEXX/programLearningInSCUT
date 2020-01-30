@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\89584\source\repos\8.12 (simulation) the tortoise and the hare\8.12 (simulation) the tortoise and the hare\源.cpp(13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  8.12 (Simulation) The Tortoise and the Hare.vcxproj -> C:\Users\89584\source\repos\8.12 (Simulation) The Tortoise and the Hare\Debug\8.12 (Simulation) The Tortoise and the Hare.exe
+  8.12 (Simulation) The Tortoise and the Hare.vcxproj -> C:\Users\89584\source\repos\8.12 (Simulation) The Tortoise and the Hare\Debug\8.12 (Simulation) The Tortoise and the Hare.pdb (Partial PDB)

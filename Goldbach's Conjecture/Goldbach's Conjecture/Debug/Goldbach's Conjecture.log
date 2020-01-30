@@ -1,0 +1,5 @@
+﻿  Goldbach's Conjecture.cpp
+c:\users\chenlijian\source\repos\goldbach's conjecture\goldbach's conjecture\goldbach's conjecture.cpp(15): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\chenlijian\source\repos\goldbach's conjecture\goldbach's conjecture\goldbach's conjecture.cpp(23): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\chenlijian\source\repos\goldbach's conjecture\goldbach's conjecture\goldbach's conjecture.cpp(36): warning C4018: “<=”: 有符号/无符号不匹配
+  Goldbach's Conjecture.vcxproj -> C:\Users\ChenLiJian\source\repos\Goldbach's Conjecture\Debug\Goldbach's Conjecture.exe

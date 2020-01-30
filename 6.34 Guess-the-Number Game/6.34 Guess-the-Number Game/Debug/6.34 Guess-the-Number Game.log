@@ -1,0 +1,5 @@
+﻿  634GuesstheNumberGame.cpp
+c:\users\89584\source\repos\6.34 guess-the-number game\6.34 guess-the-number game\634guessthenumbergame.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\89584\source\repos\6.34 guess-the-number game\6.34 guess-the-number game\634guessthenumbergame.cpp(40): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  6.34 Guess-the-Number Game.vcxproj -> C:\Users\89584\source\repos\6.34 Guess-the-Number Game\Debug\6.34 Guess-the-Number Game.exe
+  6.34 Guess-the-Number Game.vcxproj -> C:\Users\89584\source\repos\6.34 Guess-the-Number Game\Debug\6.34 Guess-the-Number Game.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  this Pointer of Time Class.cpp
+c:\users\chenlijian\source\repos\this pointer of time class\this pointer of time class\this pointer of time class.cpp(73): warning C4715: “Time::setMinute”: 不是所有的控件路径都返回值
+c:\users\chenlijian\source\repos\this pointer of time class\this pointer of time class\this pointer of time class.cpp(83): warning C4715: “Time::setSecond”: 不是所有的控件路径都返回值
+c:\users\chenlijian\source\repos\this pointer of time class\this pointer of time class\this pointer of time class.cpp(64): warning C4715: “Time::setHour”: 不是所有的控件路径都返回值
+  this Pointer of Time Class.vcxproj -> C:\Users\ChenLiJian\source\repos\this Pointer of Time Class\Debug\this Pointer of Time Class.exe

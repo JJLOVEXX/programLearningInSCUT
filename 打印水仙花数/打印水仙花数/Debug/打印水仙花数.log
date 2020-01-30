@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+c:\users\89584\source\repos\打印水仙花数\打印水仙花数\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\89584\source\repos\打印水仙花数\打印水仙花数\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\89584\source\repos\打印水仙花数\打印水仙花数\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  打印水仙花数.cpp
+  打印水仙花数.vcxproj -> c:\Users\89584\source\repos\打印水仙花数\Debug\打印水仙花数.exe
+  打印水仙花数.vcxproj -> c:\Users\89584\source\repos\打印水仙花数\Debug\打印水仙花数.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  sortTest.cpp
+c:\users\chenlijian\source\repos\sorttest\sorttest\sorttest.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenlijian\source\repos\sorttest\sorttest\sorttest.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+  sortTest.vcxproj -> C:\Users\ChenLiJian\source\repos\sortTest\Debug\sortTest.exe
